@@ -1,16 +1,23 @@
-# WaspHouse-Ward
+# WaspHouse-WARD - temperature and humidity sensors
+
 ## Overview 
-[WaspHouse-Center](https://github.com/PUT-PTM/WaspHouse-Center)
+part of WaspHouse-WARD
+
 ## Description
+DNS implementation in JAVA.
+
 ## Tools 
+- CooCox
+- C
+- STM32 ST-LINK Utility
+
 ## How to run
-## How to compile
+
 ## Future improvements
-## Attributions 
+
+
 ## License 
+GPU General Public License
+
 ## Credits
-Łukasz Śmierzchalski, Łukasz Wolniak
-
-The project was conducted during the Microprocessor Lab course held by the Institute of Control and Information Engineering, Poznan University of Technology.
-
-Supervisor: Tomasz Mańkowski
+Łukasz Wolniak
